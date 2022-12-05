@@ -1,8 +1,8 @@
 ## Collections
 
-#Creating List.
-#Editing List.
-#Creating Map basing on List.
-#Editing Map.
-#Creating List basing on Map
+1. Creating List.  
+2. Editing List.  
+3. Creating Map basing on List.  
+4. Editing Map.  
+5. Creating List basing on Map  
 
